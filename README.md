@@ -1,4 +1,4 @@
-# OpenAPIClient-php
+# Nutanix Prism Central API V3 PHP SDK
 
 Move programming from the user to the machine.
 
