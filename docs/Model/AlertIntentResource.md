@@ -1,0 +1,12 @@
+# # AlertIntentResource
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**status** | [**\OpenAPI\Client\Model\AlertDefStatus**](AlertDefStatus.md) |  | [optional]
+**spec** | [**\OpenAPI\Client\Model\Alert**](Alert.md) |  | [optional]
+**api_version** | **string** | API Version of the Nutanix v3 API framework. | [optional] [default to '3.1.0']
+**metadata** | [**\OpenAPI\Client\Model\AlertMetadata**](AlertMetadata.md) |  |
+
+[[Back to Model list]](../../README.md#models) [[Back to API list]](../../README.md#endpoints) [[Back to README]](../../README.md)
